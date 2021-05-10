@@ -32,4 +32,5 @@ AIM TO CCPCFINAL
 |5.7|Codeforces Round #715 (Div. 1)|
 |5.8|Codeforces Round #720 (Div. 2)(过题人数十分诡异算半个div1吧qaq）|
 |5.9|Contest 2050 and Codeforces Round #718 (Div. 1 + Div. 2)|
+|5.10|Codeforces Round #712 (Div. 1)|
 
