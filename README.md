@@ -89,18 +89,18 @@ AIM TO CCPCFINAL & ICPC XIAN
 | 2022/1/4  | 牛客小白月赛41                                               |
 | 2022/1/5  | --                                                           |
 | 2022/1/6  | ZSY2021校赛（水题大作战）                                    |
-| 2022/1/7  | 小白月赛41补题，CF hello 2022 补题                           |
+| 2022/1/7  | 补题                                                         |
 | 2022/1/8  | [AtCoder Beginner Contest 234](https://atcoder.jp/contests/abc234) |
-| 2022/1/9  | ABC234补题                                                   |
+| 2022/1/9  | 补题                                                         |
 | 2022/1/10 | [Codeforces Round #764 (Div. 3)](https://codeforces.com/contest/1624) |
 | 2022/1/11 | PIPIOJ公开赛                                                 |
-| 2022/1/12 |                                                              |
-| 2022/1/13 |                                                              |
-| 2022/1/14 |                                                              |
-| 2022/1/15 |                                                              |
+| 2022/1/12 | Codeforces Round #765 (Div. 2)                               |
+| 2022/1/13 | [牛客小白月赛43](https://ac.nowcoder.com/acm/contest/11220)  |
+| 2022/1/14 | 补题                                                         |
+| 2022/1/15 | [AtCoder Beginner Contest 235](https://atcoder.jp/contests/abc235) |
 | 2022/1/16 |                                                              |
 | 2022/1/17 |                                                              |
-| 2022/1/18 |                                                              |
+| 2022/1/18 | [牛客小白月赛42][https://ac.nowcoder.com/acm/contest/11219]  |
 | 2022/1/19 |                                                              |
 | 2022/1/20 |                                                              |
 | 2022/1/21 |                                                              |
