@@ -98,11 +98,11 @@ AIM TO CCPCFINAL & ICPC XIAN
 | 2022/1/13 | [牛客小白月赛43](https://ac.nowcoder.com/acm/contest/11220)  |
 | 2022/1/14 | 补题                                                         |
 | 2022/1/15 | [AtCoder Beginner Contest 235](https://atcoder.jp/contests/abc235) |
-| 2022/1/16 |                                                              |
-| 2022/1/17 |                                                              |
+| 2022/1/16 | 补题                                                         |
+| 2022/1/17 | 补题                                                         |
 | 2022/1/18 | [牛客小白月赛42][https://ac.nowcoder.com/acm/contest/11219]  |
-| 2022/1/19 |                                                              |
-| 2022/1/20 |                                                              |
+| 2022/1/19 | 补题                                                         |
+| 2022/1/20 | 补题                                                         |
 | 2022/1/21 |                                                              |
 | 2022/1/22 |                                                              |
 | 2022/1/23 |                                                              |
